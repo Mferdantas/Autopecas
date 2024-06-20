@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(239, 235, 243);
+}
+
+.header {
+    padding: 20%;
+}
+
+.links {
+    display: inline;
+    margin-left: 500px;
+}
+
+.links a {
+    margin-left: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 3px;
+}
+
+.links a:hover{
+    color: #e605d3;
+    border-top: 2px solid #e605d3;
+    border-bottom: 2px solid #e605d3;
+}
+
+.span-1, .span-2 {
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1 {
+    color: #c936bc;
+}
+
+.span-2 {
+    color: #e605d3;
+}
+
+.secao-{
+    width: 500px;
+    background-color: gray;
+    margin-left: 50px;
+    margin-top: 50px;
+}
